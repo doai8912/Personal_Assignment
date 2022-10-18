@@ -21,7 +21,7 @@
 > <br/>
 > <u> </u> 을 이용하여 글씨에 밑줄을 그릴 수 있다.
 > <br/>
-> <span style="color:~">~</span> 또는 <span style="color:rgb(~, ~, ~)">color:rgb(~, ~, ~)</span> 을 이용하여 글자색을 바꿀 수 있다.
+> span태그를 이용하여 글자색을 바꿀 수 있다.
 
 
 #5. 인용문
